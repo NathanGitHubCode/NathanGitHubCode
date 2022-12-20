@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/><a href="https://www.linkedin.com/in/nathanseldomridge/">Emerging Full-Stack Programmer</a>
+<h1>Hi, I'm Nathan! <br/><a href="https://www.linkedin.com/in/nathanseldomridge/"> A Emerging Full-Stack Programmer</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
