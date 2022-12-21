@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-   - [Vending Machine Software](https://github.com/NathanGitHubCode/VendingMachineSoftware)
+   - [Vending Machine Software](https://github.com/NathanGitHubCode/VendingMachineSoftwareReadMe)
    - ["Venmo"-like Banking Application](https://github.com/NathanGitHubCode/TenmoBankingApplication)
 - <b>Full Stack Web App (Java, JavaScript, PostgreSQL, Spring Boot, Vue.js)</b>
    - [Rental Property Management Website](https://github.com/NathanGitHubCode/RentalPropertyManagementWebsite)
